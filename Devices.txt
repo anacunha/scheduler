@@ -1,0 +1,5 @@
+Keyboard,2
+Pendrive,4
+Mouse,3
+Webcam,5
+Printer,6
